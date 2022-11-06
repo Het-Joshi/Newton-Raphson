@@ -13,6 +13,6 @@ The *General Newton Raphson Method Formula* is:
 ### General working algorithm:
 
 1. Compute the values of f(x) and f′(x) for a given initial x.
-2. While the ratio of f(x) and f′(x) is greater than allowed error ϵ,xn+1=xn–f(xn)f′(xn)For all values from 0 to n
+2. While the ratio of f(x) and f′(x) is greater than allowed error ϵ,xn+1=xn–f(xn)f′(xn)For all values from 0 to n.
 
 ---
